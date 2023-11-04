@@ -7,7 +7,7 @@ Python installed on your machine.
 Chrome browser installed.
 ## Setup
 1. Clone this repository to your local machine:
-**git clone https://github.com/your-username/selenium-demoqa-automation.git**
+**git clone https://github.com/deddyzainal/selenium-demoqa-automation.git**
 2. Navigate to the project directory:
 **cd selenium-demoqa-automation**
 4. Install the required Python packages:
